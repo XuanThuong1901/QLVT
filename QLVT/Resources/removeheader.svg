@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Layer_1" style="enable-background:new 0 0 32 32">
+  <style type="text/css">
+	.Black{fill:#727272;}
+	.Yellow{fill:#FFB115;}
+	.Blue{fill:#1177D7;}
+	.Green{fill:#039C23;}
+	.Red{fill:#D11C1C;}
+	.White{fill:#FFFFFF;}
+	.st0{opacity:0.75;}
+	.st1{opacity:0.5;}
+	.st2{opacity:0.25;}
+</style>
+  <g id="AddHeader_1_">
+    <rect x="4" y="6" width="14" height="6" rx="0" ry="0" class="Yellow" />
+    <g class="st0">
+      <path d="M18,16H4v-2h14V16z M18,18H4v2h14V18z M18,22H4v2h14V22z" class="Black" />
+    </g>
+    <path d="M20,26H2V4h16h2h0.2l1.6-1.6C21.6,2.2,21.3,2,21,2H1C0.5,2,0,2.5,0,3v24c0,0.5,0.5,1,1,1h20c0.5,0,1-0.5,1-1   v-9.2l-2-2V26z" class="Black" />
+    <polygon points="28,5 25,8 22,5 20,7 23,10 20,13 22,15 25,12 28,15 30,13 27,10 30,7  " class="Red" />
+  </g>
+</svg>

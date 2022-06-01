@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Layer_1" style="enable-background:new 0 0 32 32">
+  <style type="text/css">
+	.Yellow{fill:#FFB115;}
+	.Red{fill:#D11C1C;}
+	.Blue{fill:#1177D7;}
+	.Green{fill:#039C23;}
+	.Black{fill:#727272;}
+	.White{fill:#FFFFFF;}
+	.st0{opacity:0.5;}
+	.st1{display:none;}
+	.st2{display:inline;fill:#039C23;}
+	.st3{display:inline;fill:#D11C1C;}
+	.st4{display:inline;fill:#727272;}
+</style>
+  <g id="NewTask">
+    <path d="M22,18V2h3c0.6,0,1,0.4,1,1v15H22z M16,24H8V2H5C4.4,2,4,2.4,4,3v24c0,0.6,0.4,1,1,1h11V24z" class="Yellow" />
+    <path d="M18,2V1c0-0.6-0.4-1-1-1h-4c-0.6,0-1,0.4-1,1v1h-2v4h10V2H18z" class="Black" />
+    <polygon points="30,24 26,24 26,20 22,20 22,24 18,24 18,28 22,28 22,32 26,32 26,28 30,28  " class="Green" />
+  </g>
+</svg>
